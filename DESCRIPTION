@@ -1,0 +1,6 @@
+Title: Minimal Research Compendium Template
+Version: 0.1.0
+Author: Ville Langén
+Maintainer: Ville Langén
+Description: This repository provides a minimal template for starting research projects. It outlines the essential structure and guides users in creating the necessary directories for storing raw data and analysis scripts, promoting clarity and reproducibility in research.
+License: MIT
