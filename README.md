@@ -20,3 +20,6 @@ This repository is a minimal template for starting research projects. It provide
 5. **Document your work**: Update the `README.md` and other documentation as your project progresses.
 6. **Review the `.gitignore`**: Make sure the `.gitignore` file is set up to exclude any files you don’t want to track in Git. This file is configured for R projects, so adjust it as necessary for your specific project.
 
+## License
+
+This project is released under the MIT License.
